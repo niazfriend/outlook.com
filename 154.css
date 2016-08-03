@@ -1,0 +1,64 @@
+.note{
+	
+color:grey;
+}
+#Title{
+	margin-top:-10;
+	margin-right:-10;
+	margin-left:-10;
+	background-color:#3498db;
+	color:black;
+	padding:5px;
+	position:fix;
+	background:fix;
+}
+b{
+	font-size:32px;
+}
+#leftNav{
+	float:left;
+	background :blue;
+}
+a{
+	text-decoration:none;
+	color:grey;
+}
+td{
+	font-weight:bold;
+	font-stretch:extended;
+	overflow:Scrollbar;
+}
+.search{
+	background:#2e86c1;
+	width:220px;
+	height:50px;
+	margin-left:-10;
+}
+table.emails{
+	
+	float:right;
+	margin-top:-190;
+	position:absolute;
+	text-indent:200;}
+
+td a:hover{
+	background-color:#3CB371;
+	font-size:120%;
+	border-radius:10;
+}
+#niaz{
+	border-radius:100;
+}
+p{
+	text-align:right;
+	margin-top:-70;
+	border-radius:100%;
+}
+.maintitle{
+	font-size:30px;
+	
+	
+}
+img{
+	font-size:150;
+}
